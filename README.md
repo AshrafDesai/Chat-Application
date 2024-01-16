@@ -1,4 +1,5 @@
 React Chat Application
+
 This is a simple chat application built using React.js. Users can join different chat rooms, send messages, and interact with others in real-time.
 
 Features
